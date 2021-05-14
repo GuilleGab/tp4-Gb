@@ -1,0 +1,7 @@
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\bin\Debug\Tp4-Gb.exe.config
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\bin\Debug\Tp4-Gb.exe
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\bin\Debug\Tp4-Gb.pdb
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\obj\Debug\Tp4-Gb.csprojAssemblyReference.cache
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\obj\Debug\Tp4-Gb.csproj.CoreCompileInputs.cache
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\obj\Debug\Tp4-Gb.exe
+C:\Users\NoteBook\source\repos\Tp4-Gb\Tp4-Gb\obj\Debug\Tp4-Gb.pdb
